@@ -1,6 +1,8 @@
 ## Notes on repo Maintenance
-This repo is not under maintenance any longer since [authors](https://github.com/Ninjajie/Fusion#authors) have both graduated and started work in the industry. Thanks for your support, and best wishes for all!
+Modified version of the original repository. 
+  Cloth Simulation: Bug fixed and working on Unity 2020.2.2f1
 
+All the credits go to the original authors.
 
 # Fusion - Unity Physics on GPU
 
